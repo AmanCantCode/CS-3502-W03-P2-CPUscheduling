@@ -1,0 +1,31 @@
+Test,Algorithm,AWT,ATT,CPU Utilization (%),Throughput
+Identical Arrival Burst,FCFS,22.50,27.50,100.00,0.20
+Identical Arrival Burst,SJF,22.50,27.50,100.00,0.20
+Identical Arrival Burst,Round Robin,40.50,45.50,100.00,0.20
+Identical Arrival Burst,Priority,22.50,27.50,100.00,0.20
+Identical Arrival Burst,SRTF,22.50,27.50,100.00,0.20
+Identical Arrival Burst,HRRN,22.50,27.50,100.00,0.20
+Large Scale Random,FCFS,92.10,102.20,100.00,0.10
+Large Scale Random,SJF,63.40,73.50,100.00,0.10
+Large Scale Random,Round Robin,117.10,127.20,100.00,0.10
+Large Scale Random,Priority,80.45,90.55,100.00,0.10
+Large Scale Random,SRTF,60.20,70.30,100.00,0.10
+Large Scale Random,HRRN,63.70,73.80,100.00,0.10
+Extreme Burst Mix,FCFS,181.70,232.20,100.00,0.02
+Extreme Burst Mix,SJF,102.50,153.00,100.00,0.02
+Extreme Burst Mix,Round Robin,201.50,252.00,100.00,0.02
+Extreme Burst Mix,Priority,191.60,242.10,100.00,0.02
+Extreme Burst Mix,SRTF,102.50,153.00,100.00,0.02
+Extreme Burst Mix,HRRN,102.50,153.00,100.00,0.02
+Basic Functionality,FCFS,2.33,5.33,100.00,0.33
+Basic Functionality,SJF,1.67,4.67,100.00,0.33
+Basic Functionality,Round Robin,2.33,5.33,100.00,0.33
+Basic Functionality,Priority,2.33,5.33,100.00,0.33
+Basic Functionality,SRTF,1.67,4.67,100.00,0.33
+Basic Functionality,HRRN,2.33,5.33,100.00,0.33
+Skewed Priorities,FCFS,27.90,35.50,100.00,0.13
+Skewed Priorities,SJF,17.60,25.20,100.00,0.13
+Skewed Priorities,Round Robin,32.50,40.10,100.00,0.13
+Skewed Priorities,Priority,27.30,34.90,100.00,0.13
+Skewed Priorities,SRTF,17.60,25.20,100.00,0.13
+Skewed Priorities,HRRN,18.10,25.70,100.00,0.13

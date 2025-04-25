@@ -1,0 +1,42 @@
+/Users/amanbhayani/Documents/Operating Systems/Proj2/bin/Debug/net9.0/Proj2
+/Users/amanbhayani/Documents/Operating Systems/Proj2/bin/Debug/net9.0/Proj2.deps.json
+/Users/amanbhayani/Documents/Operating Systems/Proj2/bin/Debug/net9.0/Proj2.runtimeconfig.json
+/Users/amanbhayani/Documents/Operating Systems/Proj2/bin/Debug/net9.0/Proj2.dll
+/Users/amanbhayani/Documents/Operating Systems/Proj2/bin/Debug/net9.0/Proj2.pdb
+/Users/amanbhayani/Documents/Operating Systems/Proj2/obj/Debug/net9.0/Proj2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amanbhayani/Documents/Operating Systems/Proj2/obj/Debug/net9.0/Proj2.AssemblyInfoInputs.cache
+/Users/amanbhayani/Documents/Operating Systems/Proj2/obj/Debug/net9.0/Proj2.AssemblyInfo.cs
+/Users/amanbhayani/Documents/Operating Systems/Proj2/obj/Debug/net9.0/Proj2.csproj.CoreCompileInputs.cache
+/Users/amanbhayani/Documents/Operating Systems/Proj2/obj/Debug/net9.0/Proj2.dll
+/Users/amanbhayani/Documents/Operating Systems/Proj2/obj/Debug/net9.0/refint/Proj2.dll
+/Users/amanbhayani/Documents/Operating Systems/Proj2/obj/Debug/net9.0/Proj2.pdb
+/Users/amanbhayani/Documents/Operating Systems/Proj2/obj/Debug/net9.0/Proj2.genruntimeconfig.cache
+/Users/amanbhayani/Documents/Operating Systems/Proj2/obj/Debug/net9.0/ref/Proj2.dll
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/bin/Debug/net9.0/Proj2
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/bin/Debug/net9.0/Proj2.deps.json
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/bin/Debug/net9.0/Proj2.runtimeconfig.json
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/bin/Debug/net9.0/Proj2.dll
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/bin/Debug/net9.0/Proj2.pdb
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/obj/Debug/net9.0/Proj2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/obj/Debug/net9.0/Proj2.AssemblyInfoInputs.cache
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/obj/Debug/net9.0/Proj2.AssemblyInfo.cs
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/obj/Debug/net9.0/Proj2.csproj.CoreCompileInputs.cache
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/obj/Debug/net9.0/Proj2.dll
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/obj/Debug/net9.0/refint/Proj2.dll
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/obj/Debug/net9.0/Proj2.pdb
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/obj/Debug/net9.0/Proj2.genruntimeconfig.cache
+/Users/amanbhayani/Documents/Operating Systems/Proj2/cpuScheduling/obj/Debug/net9.0/ref/Proj2.dll
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/bin/Debug/net9.0/Proj2
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/bin/Debug/net9.0/Proj2.deps.json
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/bin/Debug/net9.0/Proj2.runtimeconfig.json
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/bin/Debug/net9.0/Proj2.dll
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/bin/Debug/net9.0/Proj2.pdb
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/obj/Debug/net9.0/Proj2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/obj/Debug/net9.0/Proj2.AssemblyInfoInputs.cache
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/obj/Debug/net9.0/Proj2.AssemblyInfo.cs
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/obj/Debug/net9.0/Proj2.csproj.CoreCompileInputs.cache
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/obj/Debug/net9.0/Proj2.dll
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/obj/Debug/net9.0/refint/Proj2.dll
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/obj/Debug/net9.0/Proj2.pdb
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/obj/Debug/net9.0/Proj2.genruntimeconfig.cache
+/Users/amanbhayani/Documents/Operating Systems/Proj2 copy123/cpuScheduling/obj/Debug/net9.0/ref/Proj2.dll
